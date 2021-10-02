@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = xaron.thyrant@gmail.com
+	name = Elliot Thyrant
